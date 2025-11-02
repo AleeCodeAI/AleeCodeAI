@@ -8,22 +8,30 @@ If an idea hits me, I’ll probably turn it into a project (even if it keeps me 
 
 ---
 
-### 💡 What I’m Learning  
+### What I’m Learning  
 I’m currently exploring **Large Language Models (LLMs)** — understanding how they **think**, **talk**, and **create**.  
 
-### ⚙️ What I’m Working With  
-My main stack includes **Python**, **LangChain**, **APIs**, and **RAG (Retrieval-Augmented Generation)**.  
+### What I’m Working With  
+🟦 **Python**  
+🟩 **LangChain**  
+🟨 **RAG (Retrieval-Augmented Generation)**  
+🟧 **APIs**  
 
-### 🚀 Featured Project  
+Other tools and skills I use:  
+🟪 **Streamlit**  
+⬜ **Pandas**  
+⬛ **Data Preparation**
+
+### Featured Project  
 👉 [**AI Project 1**](https://github.com/AleeCodeAI/AI-Project-1) — an app built with **three AI agents**, combining **RAG**, **APIs**, and **LangChain** to solve tasks collaboratively.  
 
 ---
 
-### 🎯 Fun Facts  
+### Fun Facts  
 - I love making machines talk.  
 - I’d rather debug than sleep (sometimes).  
 - My dream? To build my own AI agency one day.  
 
 ---
 
-🧩 *Stay tuned — the experiments are just getting started.*
+*Stay tuned — the experiments are just getting started.*
