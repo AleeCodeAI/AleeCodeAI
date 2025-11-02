@@ -1,16 +1,29 @@
-## Hi there 👋
+---
 
-<!--
-**AleeCodeAI/AleeCodeAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hey there!**  
+I’m **Alee**, but you might know me as **AleeCodeAI**.  
 
-Here are some ideas to get you started:
+I’m an **AI enthusiast** who loves building things powered by **code and curiosity**.  
+If an idea hits me, I’ll probably turn it into a project (even if it keeps me up all night).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I’m Learning  
+I’m currently exploring **Large Language Models (LLMs)** — understanding how they **think**, **talk**, and **create**.  
+
+### ⚙️ What I’m Working With  
+My main stack includes **Python**, **LangChain**, **APIs**, and **RAG (Retrieval-Augmented Generation)**.  
+
+### 🚀 Featured Project  
+👉 [**AI Project 1**](https://github.com/AleeCodeAI/AI-Project-1) — an app built with **three AI agents**, combining **RAG**, **APIs**, and **LangChain** to solve tasks collaboratively.  
+
+---
+
+### 🎯 Fun Facts  
+- I love making machines talk.  
+- I’d rather debug than sleep (sometimes).  
+- My dream? To build my own AI agency one day.  
+
+---
+
+🧩 *Stay tuned — the experiments are just getting started.*
