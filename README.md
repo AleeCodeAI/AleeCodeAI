@@ -23,7 +23,7 @@ Other tools and skills I use:
 ⬛ **Data Preparation**
 
 ### Featured Project  
-👉 [**AI Project 1**](https://github.com/AleeCodeAI/AI-Project-1) — an app built with **three AI agents**, combining **RAG**, **APIs**, and **LangChain** to solve tasks collaboratively.  
+👉 [**Multi-Agent-Intelligence**](https://github.com/AleeCodeAI/AI-Project-1) — an app built with **three AI agents**, combining **RAG**, **APIs**, and **LangChain** to solve tasks collaboratively.  
 
 ---
 
