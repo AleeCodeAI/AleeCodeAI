@@ -3,15 +3,15 @@
 # **Hey there!**  
 I’m **Alee**, but you might know me as **AleeCodeAI**.  
 
-I’m an **AI enthusiast** who loves building things powered by **code and curiosity**.  
-If an idea hits me, I’ll probably turn it into a project (even if it keeps me up all night).  
+I’m an **AI Enthusiast** who loves building things powered by **code and curiosity**.  
+If an idea hits me, I’ll probably turn it into a project (even if it keeps me up all night 😁).  
 
 ---
 
-### What I’m Learning  
+### What I’m Learning?  
 I’m currently exploring **Large Language Models (LLMs)** — understanding how they **think**, **talk**, and **create**.  
 
-### What I’m Working With  
+### What I’m Working With:  
 🟦 **Python**  
 🟩 **LangChain**  
 🟨 **RAG (Retrieval-Augmented Generation)**  
