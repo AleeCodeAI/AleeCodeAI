@@ -13,10 +13,10 @@ I’m currently exploring **Large Language Models (LLMs)** — understanding how
 
 ### What I’m Working With:  
 🟦 **Python**  
-🟩 **LangChain** 
-🟪 **Agent Development**
+🟩 **LangChain**  
+🟪 **Agent Development**  
 🟨 **RAG (Retrieval-Augmented Generation)**  
-🟧 **APIs**  
+🟧 **APIs**    
 
 Other tools and skills I use:  
 🟪 **Streamlit**  
