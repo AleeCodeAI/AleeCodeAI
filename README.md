@@ -13,6 +13,8 @@ I’m currently exploring **Large Language Models (LLMs)** — understanding how
 
 ### What I’m Working With:  
 🟦 **Python**  
+🟫 **Large Language Models and Transformers**
+⬜️ **Hugging Face Pipelines**
 🟩 **LangChain**  
 🟪 **Agent Development**  
 🟨 **RAG (Retrieval-Augmented Generation)**  
