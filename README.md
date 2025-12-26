@@ -17,7 +17,7 @@ I’m currently exploring **Large Language Models (LLMs)** — understanding how
 ⬜️ **Hugging Face Pipelines**  
 🟩 **LangChain**  
 🟪 **Agent Development**  
-🟨 **RAG (Retrieval-Augmented Generation)**  
+🟨 **RAG (Retrieval-Augmented Generation) & Evaluations**  
 🟧 **APIs**    
 
 Other tools and skills I use:  
