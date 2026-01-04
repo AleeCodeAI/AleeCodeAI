@@ -9,15 +9,16 @@ If an idea hits me, I’ll probably turn it into a project (even if it keeps me 
 ---
 
 ### What I’m Learning?  
-I’m currently exploring **Large Language Models (LLMs)** — understanding how they **think**, **talk**, and **create**.  
+I’m currently exploring **different ways of getting the best out of LLMs, prompt and context engineering, LLM evaluations and I am also building cool automations with n8n**  
 
 ### What I’m Working With:  
 🟦 **Python**  
 🟫 **Large Language Models and Transformers**  
 ⬜️ **Hugging Face Pipelines**  
 🟩 **LangChain**  
-🟪 **Agent Development**  
-🟨 **RAG (Retrieval-Augmented Generation) & Evaluations**  
+🟪 **Agent Development with LangChain and with Pure Code**   
+🟦 **n8n workflows and its integrations with custom code (Hybrid Development)**  
+🟨 **RAG (Retrieval-Augmented Generation) & Evaluations**   
 🟧 **APIs**    
 
 Other tools and skills I use:  
@@ -26,8 +27,7 @@ Other tools and skills I use:
 ⬛ **Data Preparation** (Data Cleaning, Manipulation and Feature Engineering)
 
 ### Featured Project  
-👉 [**Multi-Agent-Intelligence**](https://github.com/AleeCodeAI/AI-Project-1) — an app built with **three AI agents**, combining **RAG**, **APIs**, and **LangChain** to solve tasks.  
-
+👉 [**Intelligent_Inbox_Manager**](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager) — an email automation system that handles emails overload and intelligently manages them saving hours of time. It has a Backend that runs separately, a Frontend for important emails to be written manaually, getting human approval for certain emails and showing the entire system's analytics. It also has a FastAPI server that securely handles connection between the database logic and frontend
 ---
 
 ### Fun Facts  
