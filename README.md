@@ -1,14 +1,11 @@
 # Hey there!
-
 I'm **Alee**, but you might know me as **AleeCodeAI**.
-
 I'm an **AI Enthusiast** who loves building things powered by code and curiosity. If an idea hits me, I'll probably turn it into a project (even if it keeps me up all night 😁).
 
 ---
 
 ## What I'm Learning
-
-Currently exploring **LLM optimization techniques**, **prompt & context engineering**, **LLM evaluations**, and building **cool automations with n8n**.
+Currently exploring **LLM optimization techniques**, **prompt & context engineering**, **LLM evaluations**, **LLM observability with Langfuse**, and building **cool automations with n8n**.
 
 ---
 
@@ -30,17 +27,18 @@ Currently exploring **LLM optimization techniques**, **prompt & context engineer
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMEgyMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 
 ### Other Skills
 ![Data Preparation](https://img.shields.io/badge/Data_Preparation-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![LLM Evaluations](https://img.shields.io/badge/LLM_Evaluations-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white)
+![LLM Observability](https://img.shields.io/badge/LLM_Observability-00D4AA?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ## Featured Project
 
 ### [Intelligent Inbox Manager](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager)
-
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.52+-red.svg)](https://streamlit.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager)
@@ -58,7 +56,6 @@ An AI-powered email automation system that intelligently manages inbox overload,
 ---
 
 ## Fun Facts
-
 - I love making machines talk
 - I'd rather debug than sleep (sometimes)
 - My dream? To build my own AI agency one day
