@@ -5,7 +5,7 @@ I'm an **AI Enthusiast** who loves building things powered by code and curiosity
 ---
 
 ## What I'm Learning
-Currently exploring **LLM optimization techniques**, **prompt & context engineering**, **LLM evaluations**, **LLM observability with Langfuse**, and building **cool automations with n8n**.
+Currently exploring **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL and SQLAlchemy, Celery, and Redis.
 
 ---
 
@@ -17,7 +17,7 @@ Currently exploring **LLM optimization techniques**, **prompt & context engineer
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### AI & ML
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-00ADD8?style=for-the-badge&logo=robot&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google&logoColor=white)
