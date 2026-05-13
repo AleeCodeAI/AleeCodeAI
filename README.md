@@ -47,29 +47,33 @@ Currently exploring **Production Backend with Python**: FastAPI, Pydantic, Async
 
 ## Featured Project
 
-### Intelligent Inbox Manager
+### VoxFlow AI (Audio Preprocessor)
 
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.52+-red.svg)](https://streamlit.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/VoxFlow_AI)
 
-An AI-powered email automation system that intelligently manages inbox overload.
+An AI-powered audio transcriber and preprocessor
 
 ### Key Features
 
-- Automated email processing backend
-- Streamlit frontend for manual oversight and analytics
-- Secure API server for database operations
-- Redis for background task handling
-- PostgreSQL database for persistent storage
-- Fully Dockerized infrastructure
-- Real-time analytics dashboard
+- Clean transcription of audio files
+- Preprocessing of the transcription
+- Different tools to be used on the processed transcription (e.g. email sending, translation, key words/points extraction)
+- Modern FastAPI Backend
+- Modern React Frontend
+- Custom evaluations and tests
+- Langfuse Observability
+- PostgreSQL as database
+- Redis for caching
+- Docker for containerization
 
 **Watch Demo**:  
-https://drive.google.com/file/d/1jhVm51-drzOTcm3QLk6DfrgbH1j9kRO6/view?usp=sharing
+https://drive.google.com/file/d/1d_op75ScwyPdvR-QpHw3aOh3T70v_Hm8/view?usp=sharing
 
 **View Repository**:  
-https://github.com/AleeCodeAI/Intelligent_Inbox_Manager
+https://github.com/AleeCodeAI/VoxFlow_AI
 
 ---
 
