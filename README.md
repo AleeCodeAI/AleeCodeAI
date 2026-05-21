@@ -7,7 +7,7 @@ I'm an **AI Enthusiast** who loves building things powered by code and curiosity
 
 ## What I'm Learning
 
-Currently exploring **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL, SQLAlchemy, Redis, and Docker.
+Currently exploring and building **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL, SQLAlchemy, Redis, and Docker.
 
 ---
 
