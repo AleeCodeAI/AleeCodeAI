@@ -1,13 +1,13 @@
 # Hey there!
 
 I'm **Alee**, but you might know me as **AleeCodeAI**.  
-I'm an **AI Enthusiast** who loves building things powered by code and curiosity. If an idea hits me, I'll probably turn it into a project.
+I'm an aspiring **AI Engineer** who loves building things powered by code and curiosity. If an idea hits me, I'll probably turn it into a project.
 
 ---
 
 ## What I'm Learning
 
-Currently exploring and building **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL, SQLAlchemy, Redis, and Docker.
+currently exploring and building **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL, SQLAlchemy, Redis, and Docker.
 
 ---
 
@@ -45,19 +45,42 @@ Currently exploring and building **Production Backend with Python**: FastAPI, Py
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### VoxFlow AI (Audio Preprocessor)
+### 1. Intelligent Inbox Manager
+
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager)
+
+An AI-driven email automation and workspace triage platform that routes inbox traffic into automated RAG engines and manual human-in-the-loop flows.
+
+#### Key Features
+- **Automated Basic Handling:** Auto-replies to predictable queries using an Agentic RAG system built on top of customized user documentation and notes.
+- **Priority Filtering:** Flags high-value or sensitive emails and routes them to a frontend interface for custom manual actions.
+- **Appointment Interface:** Integrated scheduling features that map appointment dates, alter calendars, and dispatch confirmation updates via n8n low-code workflow automations.
+- **Robust Resilience & Observability:** Advanced dual-model selection strategy using `gpt-oss-120b` and `gpt-4.1-nano` over Groq with automatic Openrouter fallbacks, fully monitored using production-grade Langfuse observability tracking.
+- **Enterprise-Grade Infrastructure:** Comprehensive industry best-practice system evaluations, modern FastAPI backend design, a polished React frontend, structured PostgreSQL database persistence, and clean Docker containerization.
+
+**View Screenshots**:  
+https://github.com/AleeCodeAI/Intelligent_Inbox_Manager/tree/main/screenshots
+
+**View Repository**:  
+https://github.com/AleeCodeAI/Intelligent_Inbox_Manager
+
+---
+
+### 2. VoxFlow AI (Audio Preprocessor)
 
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/VoxFlow_AI)
 
-An AI-powered audio transcriber and preprocessor
+An AI-powered audio transcriber and preprocessor.
 
-### Key Features
-
+#### Key Features
 - Clean transcription of audio files
 - Preprocessing of the transcription
 - Different tools to be used on the processed transcription (e.g. email sending, translation, key words/points extraction)
