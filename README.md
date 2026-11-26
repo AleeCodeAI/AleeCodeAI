@@ -5,9 +5,11 @@ I'm an aspiring **AI Engineer** who loves building things powered by code and cu
 
 ---
 
-## What I'm Learning
+## What I'm Building & Learning
 
-currently exploring and building **Production Backend with Python**: FastAPI, Pydantic, Asynchronous Python, PostgreSQL, SQLAlchemy, Redis, and Docker.
+Right now I'm building **production-grade AI applications and systems**: a **FastAPI** backend, **AI evals**, a **React** frontend, **Supabase** for auth and database, all containerized with **Docker**.
+
+My main focus is **Applied AI**: RAG, agentic systems, and evaluating them properly. Alongside that, I'm picking up simple React frontends, authentication flows, and Supabase, so I can ship complete products end to end.
 
 ---
 
@@ -17,9 +19,12 @@ currently exploring and building **Production Backend with Python**: FastAPI, Py
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,7 +85,7 @@ https://github.com/AleeCodeAI/Intelligent_Inbox_Manager
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/Intelligent_Inbox_Manager)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/AleeCodeAI/legal-copilot)
 
 A sophisticated AI-powered legal research system that goes beyond conventional RAG by combining dual-source retrieval, hybrid search, re-ranking, and an agentic retrieval process.
 
@@ -88,10 +93,10 @@ It searches both an official California legal guide and the law firm's internal 
 
 The system also includes dedicated evaluations, evaluation datasets, and LLM judge calibration to assess the quality of its retrieval and agentic components rather than treating it as an untested prototype.
 
-**View Screenshots:** 
+**View Screenshots:**  
 https://github.com/AleeCodeAI/legal-copilot/tree/main/screenshots
 
-**View Repository:** 
+**View Repository:**  
 https://github.com/AleeCodeAI/legal-copilot
 
 ---
